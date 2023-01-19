@@ -1,0 +1,2 @@
+# SuperFastAttackScript
+Nothing here
